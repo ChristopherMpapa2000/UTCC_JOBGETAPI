@@ -1,0 +1,10 @@
+[10:52:40] ====== Start Process ====== : 25/04/2025 10:52:40
+
+[10:52:40] Run batch as :TECHCONS\christopher
+
+[10:52:46] Count data : 50295
+
+[11:13:36] Insert Completed : 50295
+
+[11:13:36] ====== End Process Process ====== : 25/04/2025 11:13:36
+

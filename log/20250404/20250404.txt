@@ -1,0 +1,12 @@
+[11:50:14] ====== Start Process ====== : 04/04/2025 11:50:14
+
+[11:50:14] Run batch as :TECHCONS\christopher
+
+[11:50:43] ERROR
+
+[11:50:43] message: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+
+[11:50:43] Exit ERROR
+
+[11:50:43] ====== End Process Process ====== : 04/04/2025 11:50:43
+

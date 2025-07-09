@@ -1,0 +1,60 @@
+[13:30:03] ====== Start Process ====== : 24/03/2025 13:30:03
+
+[13:30:03] Run batch as :TECHCONS\christopher
+
+[13:37:37] ====== Start Process ====== : 24/03/2025 13:37:37
+
+[13:37:37] Run batch as :TECHCONS\christopher
+
+[13:38:52] ====== Start Process ====== : 24/03/2025 13:38:52
+
+[13:38:52] Run batch as :TECHCONS\christopher
+
+[13:39:49] ====== Start Process ====== : 24/03/2025 13:39:49
+
+[13:39:49] Run batch as :TECHCONS\christopher
+
+[13:41:22] ====== Start Process ====== : 24/03/2025 13:41:22
+
+[13:41:22] Run batch as :TECHCONS\christopher
+
+[13:42:02] ====== Start Process ====== : 24/03/2025 13:42:02
+
+[13:42:02] Run batch as :TECHCONS\christopher
+
+[13:42:11] ERROR
+
+[13:42:11] message: The type 'JobGetApiUTCC.DataconDataContext' is not mapped as a Table.
+
+[13:42:11] Exit ERROR
+
+[13:42:11] ====== End Process Process ====== : 24/03/2025 13:42:11
+
+[13:42:22] ====== Start Process ====== : 24/03/2025 13:42:22
+
+[13:42:22] Run batch as :TECHCONS\christopher
+
+[13:43:03] ====== Start Process ====== : 24/03/2025 13:43:03
+
+[13:43:03] Run batch as :TECHCONS\christopher
+
+[13:48:52] ====== Start Process ====== : 24/03/2025 13:48:52
+
+[13:48:52] Run batch as :TECHCONS\christopher
+
+[14:03:19] ====== Start Process ====== : 24/03/2025 14:03:19
+
+[14:03:19] Run batch as :TECHCONS\christopher
+
+[14:05:01] ====== Start Process ====== : 24/03/2025 14:05:01
+
+[14:05:01] Run batch as :TECHCONS\christopher
+
+[14:06:16] ====== Start Process ====== : 24/03/2025 14:06:16
+
+[14:06:16] Run batch as :TECHCONS\christopher
+
+[14:07:36] ====== Start Process ====== : 24/03/2025 14:07:36
+
+[14:07:36] Run batch as :TECHCONS\christopher
+
